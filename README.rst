@@ -85,7 +85,7 @@ files <http://www.census.gov/geo/www/gazetteer/places2k.html>`_.
 
 You can use any other data file. There are numerous commercial and educational
 providers.  Reference this discussion thread, `Calculate Driving Distance
-<http://lasso.2283332.n4.nabble.com/Calculate-Driving-Distance-tp3099745.html>`_
+<http://lasso.2283332.n4.nabble.com/Calculate-Driving-Distance-tp3099745.html>`_.
 This thread includes a discussion about methods used to calculate distance.
 I am using the Haversine formula because it is less prone to error at short
 distances.
