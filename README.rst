@@ -20,7 +20,7 @@ Usage
 =====
 ``zip_distance`` is a collection of methods.
 
-``[deg2rad]`` converts degrees to radians. Used by ``calculate_distance``.
+``[deg2rad]`` converts degrees to radians. Used by ``[calculate_distance]``.
 
 ``[calculate_distance]`` calculates the distance in miles between two points on
 a sphere from their latitude and longitude using the Haversine formula.
@@ -80,8 +80,8 @@ configuration errors should be returned.
 Notes and Acknowledgments
 =========================
 
-All ZIP code information was taken from the `US Census Bureau's 2000 Gazetteer
-files <http://www.census.gov/geo/www/gazetteer/places2k.html>`_.
+All ZIP code information was taken from the `US Census Bureau's Gazetteer
+files <http://www.census.gov/geo/maps-data/data/gazetteer.html>`_.
 
 You can use any other data file. There are numerous commercial and educational
 providers.  Reference this discussion thread, `Calculate Driving Distance
