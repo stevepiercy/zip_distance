@@ -3,7 +3,7 @@ zip_distance - Calculate the distance between two US ZIP codes with Lasso 8
 
 Read the article `zip_distance - Calculate the distance between two US ZIP
 codes with Lasso 8
-<http://www.stevepiercy.com/zip_distance-calculate-the-distance-between-two-us-zip-codes-with-lasso-8.html>`_.
+<http://www.stevepiercy.com/articles/zip_distance-calculate-the-distance-between-two-us-zip-codes-with-lasso-8/>`_.
 
 Description
 ===========
