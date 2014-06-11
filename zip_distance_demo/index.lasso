@@ -2,7 +2,6 @@
 // Either load the file zip_distance.inc during server or site startup,
 // in server or site library, or include it.  Choose one method.
 // I recommend site startup.
-
 // include('zip_distance.inc'); // optional loading method
 
 // Configure your database connection variable for $cnxnzip.
@@ -17,14 +16,14 @@ var('cnxnzip') = array(
         -tableencoding='utf-8'),
     -database='XXXXXXXX'); // configure this
 
-]
-<!DOCTYPE html>
-<html lang="en">
+]<!DOCTYPE html>
+<html>
 <head>
     <meta charset="utf-8" />
-        <title>zip_distance demo - Steve Piercy — Website Builder</title>
+    <title>zip_distance by Steve Piercy</title>
 </head>
 <body>
+    <h1>zip_distance by Steve Piercy</h1>
     <p>Calculate the distance between two United States ZIP Codes.</p>
     <form method="post" action="[response_filepath]">
         ZIP Code One: <input type="text" name="one" size="7" maxlength="5" value="[action_param('one')]"><br />
