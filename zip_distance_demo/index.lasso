@@ -1,8 +1,8 @@
 [
-// Either load the file zip_distance.inc during server or site startup,
+// Either load the file zip_distance.lasso during server or site startup,
 // in server or site library, or include it.  Choose one method.
 // I recommend site startup.
-// include('zip_distance.inc'); // optional loading method
+// include('zip_distance.lasso'); // optional loading method
 
 // Configure your database connection variable for $cnxnzip.
 // Used in the tag zip2latlong.

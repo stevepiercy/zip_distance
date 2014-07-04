@@ -56,11 +56,11 @@ Installation and Requirements
 =============================
 
 The repository contains collection of methods in the file
-``zip_distance.inc``, an SQL file to build the table, and a directory
+``zip_distance.lasso``, an SQL file to build the table, and a directory
 ``zip_distance_demo`` containing the demo file ``index.lasso``.
 
-Install the file ``zip_distance.inc`` where you think is best. Either place it
-in either your Lasso Server's or Site's ``LassoStartup`` or ``LassoLibraries``
+Install the file ``zip_distance.lasso`` where you think is best. Either place
+it in your Lasso Server's or Site's ``LassoStartup`` or ``LassoLibraries``
 directory, restarting the appropriate scope as needed, or include it in the
 page that calls the methods. I recommend Lasso Site ``LassoStartup``.
 
